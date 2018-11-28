@@ -1,0 +1,14 @@
+EF8D|Woman|3
+2E33|Man|3
+97E4|Left|3
+76B0|Right|3
+344D|Landscape|3
+AB1E|Hanger|3
+5DE1|Props|3
+5855|Towel|3
+B9DC|Door|3
+ECED|Bed|3
+6F8E|Mirror|3
+8238|Window|3
+84A8|Chair|3
+FA0C|Table|3
