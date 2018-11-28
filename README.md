@@ -12,6 +12,7 @@ A randomly generated virtual Van Gogh painting that uses Poly objects created in
     * 1: Unique ID
     * 2: Unique name
     * 3: Maximum random number
+* Custom hack: Result object contains request's keywords.
 * Known issues: Unfortunately it's not possible to adjust the pivot point of an object and there is no option to set up the forward direction in Poly. These can be lead to interesting deformed positions/rotations in the Scene. 
 
 ### Useful links
