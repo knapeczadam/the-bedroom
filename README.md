@@ -15,6 +15,7 @@ A randomly generated virtual Van Gogh painting that uses Poly objects created in
 * Known issues: Unfortunately it's not possible to adjust the pivot point of an object and there is no option to set up the forward direction in Poly. These can be lead to interesting deformed positions/rotations in the Scene. 
 
 ### Useful links
+* <a href="https://en.wikipedia.org/wiki/Bedroom_in_Arles">Bedroom in Arles</a>
 * <a href="https://poly.google.com/">Poly</a>
 * <a href="https://developers.google.com/poly/develop/unity">Unity Quickstart | Poly | Google Developers</a>
 
